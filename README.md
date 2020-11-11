@@ -1,2 +1,2 @@
 # validador-de-senha
-Validador de senha feito em Javascript
+<h2>Validador de senha feito em Javascript</h2>
